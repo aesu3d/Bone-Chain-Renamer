@@ -1,10 +1,10 @@
-# Auto Bone Renamer ver 1.0, made with love by Aesu <3
+# Bone Chain Renamer ver 1.0.1, made with love by Aesu <3
 
 # dictionary
 bl_info = {
-    "name": "Auto Bone Renamer",
+    "name": "Bone Chain Renamer",
     "author": "Aesu3D",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar (N) > AESU > Bone Renamer",
     "description": "Rename bone chains with numbers, side suffixes and prefixes",
@@ -357,7 +357,7 @@ class AESU_OT_peel_prefix(bpy.types.Operator):
 
 # sidebar, note to self: PT = Panel Type
 class AESU_PT_bone_renamer(bpy.types.Panel):
-    bl_label = "Bone Renamer"
+    bl_label = "Bone Chain Renamer"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
     bl_category = "AESU"

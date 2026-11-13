@@ -1,8 +1,8 @@
 schema_version = "1.0.0"
 
 id = "aesu_bone_renamer"
-version = "1.0.0"
-name = "Auto Bone Renamer"
+version = "1.0.1"
+name = "Bone Chain Renamer"
 tagline = "Rename bone chains with numbers, sides and prefixes"
 maintainer = "Aesu3D"
 type = "add-on"
