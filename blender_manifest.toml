@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "aesu_bone_renamer"
+version = "1.0.0"
+name = "Auto Bone Renamer"
+tagline = "Rename bone chains with numbers, sides and prefixes"
+maintainer = "Aesu3D"
+type = "add-on"
+website = "https://aesu3d.com"
+tags = ["Rigging"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
