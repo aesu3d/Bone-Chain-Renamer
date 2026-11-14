@@ -21,6 +21,8 @@ Made to quickly name long bone chains (like hair strands, skirts, ribbons, tails
 
 *Tip: You can also just drag and drop the `.zip` file right into Blender's 3D Viewport to install it!!*
 
+Requires Blender 4.2+, works up until the latest ver.
+
 ## How to use
 1. Select your armature and switch to **Edit** or **Pose** mode (works in Object mode too!)
 2. Press `N` to open the sidebar and click on the **AESU** tab.
